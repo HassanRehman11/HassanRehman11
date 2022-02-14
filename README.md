@@ -16,6 +16,6 @@
 
 - 📝 My Sketches
 <p align="center">
-<img src='https://gitlab.com/hassan.rehman/mydata/-/raw/master/images/iranian.jpg' height:'50'>
-<img src='https://gitlab.com/hassan.rehman/mydata/-/raw/master/images/iranian.jpg'>
+<img src='https://gitlab.com/hassan.rehman/mydata/-/raw/master/images/iranian.jpg' height:'50' width:'50'>
+<img src='https://gitlab.com/hassan.rehman/mydata/-/raw/master/images/iranian.jpg' height:'50' width:'50'>
 </p>
