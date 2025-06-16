@@ -1,7 +1,7 @@
 ### Hi there,I am Hassan Rehman👋
 
 
-- 🔭 I’m currently working as an AI Engineer in Nextbridge, Lahore, PK.
+- 🔭 I’m currently working as a Senior AI solution Architect at Cygnustech Solutions, Dubai, UAE.
 - 🌱 I’m currently enrolled in Master in Data Science program from FAST, NUCES, Lahore, PK.
 - 👯 I’m looking for remote job related to Python, ML and data engineering.
 - 💬 Ask me about doing your assignment and I will not reply you. 👊
