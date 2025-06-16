@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working as a Senior AI solution Architect at Cygnustech Solutions, Dubai, UAE.
-- 🌱 I’m currently enrolled in Master in Data Science program from FAST, NUCES, Lahore, PK.
-- 👯 I’m looking for remote job related to Python, ML and data engineering.
+- 🌱 I holds masters degree in Data Science and bachelors degree in computer Science.
+- 👯 I’m proficient in Gen AI, computer vision and end to end AI pipeline development.
 - 💬 Ask me about doing your assignment and I will not reply you. 👊
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/hassan119/">My Linkedin Profile</a>.
 - ⚡ Fun fact: I love to make sketches.
