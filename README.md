@@ -10,6 +10,6 @@
 
 - 📈 GitHub Stats
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=HassanRehman11&show_icons=true&theme=onedark' height:'50'>
+<!-- <img src='https://github-readme-stats.vercel.app/api?username=HassanRehman11&show_icons=true&theme=onedark' height:'50'> -->
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRehman11&theme=onedark'>
 </p>
